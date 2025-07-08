@@ -1,5 +1,7 @@
-Thank you for visiting my profile!
-This is the home for all my projects, professional and even passion.
-Consider checking out my website, "RomanoSocial" and some of my python tools! You can contact me at
-leonardomessages@gmail.com
--Leo
+Thank you for checking out my profile!
+
+Feel free to message me anytime at leonardomessages@gmail.com
+
+You must message me when you submit a commit/pull request, stating what you changed and why.
+
+I check them often, so shoot me an email for anything at all!
